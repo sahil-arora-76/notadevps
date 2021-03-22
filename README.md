@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAHIL</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
-- 🔭 I’m currently working on opengl
+- 🔭 I’m currently working on VOLT
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **rust, opengl**
 
 - 🤝 I’m looking for help with **C++**
 
