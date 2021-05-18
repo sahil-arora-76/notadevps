@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on VOLT
 
-- 🌱 I’m currently learning **rust, opengl**
+- 🌱 I’m currently learning **opengl**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with **[file-share](https://github.com/notadevps/file-share)**
 
-- 💬 Ask me about **vue, js, ts, nodejs, express**
+- 💬 Ask me about **vue, js, ts, nodejs, express, c**
 
 - 📫 How to reach me **https://discord.gg/QwBK2P8r**
 
