@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **vue, js, ts, nodejs, express, c**
 
-- 📫 How to reach me **https://discord.gg/QwBK2P8r**
+- 📫 How to reach me **https://discord.gg/gRcQtDTtZE**
 
 - ⚡ Fun fact **Most of my projects are private**
 
