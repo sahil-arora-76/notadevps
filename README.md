@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm SAHIL</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
-- 🔭 I’m currently working on VOLT
 
-- 🌱 I’m currently learning **opengl**
+- 🌱 I’m currently learning **opengl rust**
 
 - 🤝 I’m looking for help with **[file-share](https://github.com/notadevps/file-share)**
 
-- 💬 Ask me about **vue, js, ts, nodejs, express, c**
+- 💬 Ask me about **vue, js, ts, nodejs, express, c, cpp**
 
 - 📫 How to reach me **https://discord.gg/gRcQtDTtZE**
 
