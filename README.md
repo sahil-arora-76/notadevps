@@ -2,15 +2,12 @@
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
 
-- 🌱 I’m currently learning **opengl rust**
+- 🌱 I’m currently learning ** Devops**
 
-- 🤝 I’m looking for help with **[file-share](https://github.com/notadevps/file-share)**
 
-- 💬 Ask me about **vue, js, ts, nodejs, express, c, cpp**
+- 💬 Ask me about Anything related to **Frontend/Backend**
 
-- 📫 How to reach me **https://discord.gg/gRcQtDTtZE**
 
-- ⚡ Fun fact **Most of my projects are private**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
